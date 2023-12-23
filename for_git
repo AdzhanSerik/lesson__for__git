@@ -1,0 +1,4 @@
+git clone https: //github.com/AdzhanSerik/lesson__for__git.git
+cd .\lesson__for__git\
+git add . git commit -m "Deploy"
+git push
